@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="app_logo">Weather</string>
+    <string name="hint_user_field">Input city name</string>
+    <string name="button_text">show weather</string>
+    <string name="error_no_user_input">U HAVEN\'T ENTERED THE CORRECT NAME</string>
+</resources>
